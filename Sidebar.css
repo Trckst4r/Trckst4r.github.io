@@ -1,0 +1,118 @@
+.sidebar {
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 54px;
+    bottom: 0;
+    background-color: white;
+    width: 72px;
+    padding-top: 5px;
+    z-index: 12;
+
+}
+
+    .home {
+        height: 74px;
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+    }
+        .hoicon {
+            height: 24px;
+            margin-bottom: 5px;
+            vertical-align: middle;
+        }
+        .home:hover {
+            background-color: rgb(249, 249, 249)
+        }
+    .explore {
+        height: 74px;
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+    }
+        .exicon {
+        height: 24px;
+        margin-bottom: 5px;
+        vertical-align: middle;
+        }
+        .explore:hover {
+        background-color: rgb(249, 249, 249)
+        }
+    .subscription {
+        height: 74px;
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+    }
+        .suicon {
+        height: 24px;
+        margin-bottom: 5px;
+        vertical-align: middle;
+        }
+        .subscription:hover {
+        background-color: rgb(249, 249, 249)
+        }
+
+    .originals {
+        height: 74px;
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+    }
+        .oricon {
+        height: 24px;
+        margin-bottom: 5px;
+        vertical-align: middle;
+        }
+        .originals:hover {
+        background-color: rgb(249, 249, 249)
+        }
+    .ytmusic {
+        height: 74px;
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+        text-align: center;
+    }
+        .yticon {
+        height: 24px;
+        margin-bottom: 5px;
+        vertical-align: middle;
+        }
+        .ytmusic:hover {
+        background-color: rgb(249, 249, 249)
+        }
+    .library {
+        height: 74px;
+        display: flex;
+        flex-direction: column;
+        cursor: pointer;
+        justify-content: center;
+        align-items: center;
+        font-size: 10px;
+    }
+        .liicon {
+        height: 24px;
+        margin-bottom: 5px;
+        vertical-align: middle;
+        }
+        .library:hover {
+        background-color: rgb(249, 249, 249)
+        }
+    
